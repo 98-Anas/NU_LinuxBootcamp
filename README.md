@@ -6,7 +6,7 @@ To create a sustainable and inclusive learning ecosystem that introduces student
 ---
 <img width="1423" height="905" alt="Bootcamp" src="https://github.com/user-attachments/assets/2687cc96-18d3-487f-b88e-44682244d91f" />
 
-## Table Content:
+## Orientation Session (Motivation Purpose):
 ### 1- Initiative Field Target 
 	Fields: (maximum 2 examples to explain how linux is very important)
 			Embedded Linux (Examples) 
@@ -17,13 +17,14 @@ To create a sustainable and inclusive learning ecosystem that introduces student
 			Cyper Security (Examples)
 			Linux Adminstration (Examples)
 ### 2- Bootcamp Content
-          	1- Introduction to Linux
-		2- Networking
-  	  	3- Docker
+#### 1- Introduction to Linux
 [content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/1_Introduction%20to%20Linux.md)
-[content]((https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/2_Networking.md))
+#### 2- Networking
+[content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/2_Networking.md)
+#### 3- Docker
 [content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/3_Docker.md)			
-### 3- Discussion
+
+#### 3- Discussion
 ---
 ### 🎯 Strategic Goals
 
