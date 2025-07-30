@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"5bd870dcef1520b6","type":"text","text":"## Introduction to Linux\n\n","x":-280,"y":-190,"width":300,"height":60,"color":"6"},
+		{"id":"52098dff676995df","type":"file","file":"BootCamp Initiative/Orientation & Discussion.md","x":-1060,"y":-190,"width":635,"height":360,"color":"2"},
+		{"id":"2f0fe9455607df25","type":"file","file":"BootCamp Initiative/3_Docker.md","x":583,"y":-160,"width":595,"height":260,"color":"3"},
+		{"id":"b3fbaf4fe58db9bb","type":"text","text":"# ~  NU Linux Initiative  ~","x":-135,"y":-440,"width":375,"height":60,"color":"4"},
+		{"id":"b77c1af1524f09dd","type":"text","text":"## Networking","x":140,"y":-190,"width":200,"height":60,"color":"6"},
+		{"id":"2aeba3de200a8e2a","type":"file","file":"BootCamp Initiative/2_Networking.md","x":201,"y":220,"width":680,"height":280,"color":"2"},
+		{"id":"2ebe0e209b205a7c","type":"file","file":"BootCamp Initiative/1_Introduction to Linux.md","x":-625,"y":220,"width":605,"height":280,"color":"3"},
+		{"id":"abcb0c51928860c1","type":"text","text":"## Orientation & Discussion","x":-625,"y":-350,"width":345,"height":60,"color":"6"},
+		{"id":"b5ca6aa4ac88e967","type":"text","text":"## Docker","x":400,"y":-350,"width":160,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"a22be8c0a4c731bf","fromNode":"b3fbaf4fe58db9bb","fromSide":"bottom","toNode":"5bd870dcef1520b6","toSide":"top"},
+		{"id":"402fffdff9585825","fromNode":"b3fbaf4fe58db9bb","fromSide":"bottom","toNode":"b5ca6aa4ac88e967","toSide":"top"},
+		{"id":"27046ff1678adf8f","fromNode":"b3fbaf4fe58db9bb","fromSide":"bottom","toNode":"b77c1af1524f09dd","toSide":"top"},
+		{"id":"b6eefa49802acf08","fromNode":"b3fbaf4fe58db9bb","fromSide":"bottom","toNode":"abcb0c51928860c1","toSide":"top"},
+		{"id":"9932537fea157733","fromNode":"abcb0c51928860c1","fromSide":"bottom","toNode":"52098dff676995df","toSide":"top"},
+		{"id":"e549b4c193222fd1","fromNode":"b5ca6aa4ac88e967","fromSide":"bottom","toNode":"2f0fe9455607df25","toSide":"top"},
+		{"id":"9fadd7c04d6a1546","fromNode":"5bd870dcef1520b6","fromSide":"bottom","toNode":"2ebe0e209b205a7c","toSide":"top"},
+		{"id":"e36ba8359baa108a","fromNode":"b77c1af1524f09dd","fromSide":"bottom","toNode":"2aeba3de200a8e2a","toSide":"top"}
+	]
+}
