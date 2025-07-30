@@ -18,11 +18,11 @@ To create a sustainable and inclusive learning ecosystem that introduces student
 			Linux Adminstration (Examples)
 #### 2- Bootcamp Content
 		Introduction to Linux (Redhat - Ubuntu) 
-			[Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/1_Introduction%20to%20Linux.md)
+			- [Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/1_Introduction%20to%20Linux.md)
 		Networking
-			[Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/2_Networking.md)
+			- [Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/2_Networking.md)
 		Docker
-			[Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/3_Docker.md)
+			- [Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/3_Docker.md)
 #### 3- Discussion
 ---
 ### 🎯 Strategic Goals
