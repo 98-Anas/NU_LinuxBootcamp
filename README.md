@@ -1,13 +1,33 @@
 
-### **📌 Mission Statement**
+### 📌 Mission Statement
 
 To create a sustainable and inclusive learning ecosystem that introduces students to the power and versatility of Linux and open-source technologies. This initiative aims to develop technically proficient individuals equipped with essential Linux skills that are foundational across modern computing disciplines — from embedded systems and cloud computing to cybersecurity, DevOps, and MLOps. By focusing on practical learning, collaboration, and innovation, the initiative seeks to bridge the gap between academic knowledge and real-world industry demands.
 
 ---
 <img width="1423" height="905" alt="Bootcamp" src="https://github.com/user-attachments/assets/2687cc96-18d3-487f-b88e-44682244d91f" />
-### **🎯 Strategic Goals**
 
-1. **Establish Linux as a Foundational Skillset:**  
+## Table Content:
+#### 1- Initiative Field Target 
+	Fields: (maximum 2 examples to explain how linux is very important)
+			Embedded Linux (Examples) 
+			Devops (Examples)
+			MLops (Examples)
+			Cloud Computing (Examples)
+			High Performance Computing (Examples)
+			Cyper Security (Examples)
+			Linux Adminstration (Examples)
+#### 2- Bootcamp Content
+		Introduction to Linux (Redhat - Ubuntu) 
+			[Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/1_Introduction%20to%20Linux.md)
+		Networking
+			[Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/2_Networking.md)
+		Docker
+			[Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/3_Docker.md)
+#### 3- Discussion
+---
+### 🎯 Strategic Goals
+
+1. Establish Linux as a Foundational Skillset:
     Demonstrate how Linux serves as the operating backbone across multiple industries — from high-performance computing clusters to resource-constrained IoT devices. Show its relevance through compelling use cases in:
     
     - **Embedded Linux** (e.g., real-time systems, edge devices)
@@ -23,7 +43,7 @@ To create a sustainable and inclusive learning ecosystem that introduces student
     - **Linux System Administration** (e.g., access control, network configuration)
     
        
-2. **Deliver a Hands-On, Bootcamp-Driven Curriculum:**  
+2. Deliver a Hands-On, Bootcamp-Driven Curriculum:
     Equip students with practical, industry-relevant skills by covering:
     
     - **Linux Essentials**: Command line usage, package managers, file systems (Ubuntu & RedHat flavors)
@@ -37,15 +57,15 @@ To create a sustainable and inclusive learning ecosystem that introduces student
     - **Basic Automation & Scripting**: Bash scripting and cron jobs
 
 
-3. **Bridge Disciplines & Promote Real-World Integration:**  
+3. Bridge Disciplines & Promote Real-World Integration:  
     Show how Linux acts as a unifying technology across data science, embedded engineering, DevOps, AI/ML, and cybersecurity — cultivating cross-disciplinary awareness.
 
    
-3. **Promote Open Discussion and Student-Led Learning:**  
+3. Promote Open Discussion and Student-Led Learning:
     Facilitate engaging discussions where students share ideas, challenges, and real-world applications. Encourage peer-led sessions, knowledge exchange, and community contribution.
 
 
-4. **Future-Proof Talent for the Tech Ecosystem:**  
+4. Future-Proof Talent for the Tech Ecosystem:  
     Position students to thrive in rapidly evolving tech environments by instilling:
     
     - Open-source collaboration mindset
@@ -59,7 +79,7 @@ To create a sustainable and inclusive learning ecosystem that introduces student
 
 ---
 
-### **🚀 Future Extension Tracks**
+### 🚀 Future Extension Tracks
 
 As students progress, the initiative will open optional advanced learning paths such as:
 
@@ -77,28 +97,6 @@ As students progress, the initiative will open optional advanced learning paths 
     
 - **Linux Kernel & Driver Development**  
     (Writing kernel modules, customizing the boot process, device driver programming)
-    
-
----
-## Table Content:
-#### 1- Initiative Target 
-	Fields: (maximum 2 examples to explain how linux is very important)
-			Embedded Linux (Examples) 
-			Devops (Examples)
-			MLops (Examples)
-			Cloud Computing (Examples)
-			High Performance Computing (Examples)
-			Cyper Security (Examples)
-			Linux Adminstration (Examples)
-#### 2- Bootcamp Content
-		Introduction to Linux (Redhat - Ubuntu) 
-			Content
-		Networking
-			Content
-		Docker
-			Content
-#### 3- Discussion
-
 ---
 ## 📅 Weekly Schedule Overview
 
