@@ -7,7 +7,7 @@ To create a sustainable and inclusive learning ecosystem that introduces student
 <img width="1423" height="905" alt="Bootcamp" src="https://github.com/user-attachments/assets/2687cc96-18d3-487f-b88e-44682244d91f" />
 
 ## Table Content:
- 1- Initiative Field Target 
+### 1- Initiative Field Target 
 	Fields: (maximum 2 examples to explain how linux is very important)
 			Embedded Linux (Examples) 
 			Devops (Examples)
@@ -16,14 +16,12 @@ To create a sustainable and inclusive learning ecosystem that introduces student
 			High Performance Computing (Examples)
 			Cyper Security (Examples)
 			Linux Adminstration (Examples)
- 2- Bootcamp Content
-		Introduction to Linux (Redhat - Ubuntu) 
-			- [Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/1_Introduction%20to%20Linux.md)
-		Networking
-			- [Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/2_Networking.md)
-		Docker
-			- [Content](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/3_Docker.md)
- 3- Discussion
+### 2- Bootcamp Content
+		![Introduction to Linux]{https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/1_Introduction%20to%20Linux.md}
+		![Networking](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/2_Networking.md)
+		![Docker](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/3_Docker.md)
+			
+### 3- Discussion
 ---
 ### 🎯 Strategic Goals
 
