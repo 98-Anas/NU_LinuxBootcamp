@@ -17,9 +17,11 @@ To create a sustainable and inclusive learning ecosystem that introduces student
 			Cyper Security (Examples)
 			Linux Adminstration (Examples)
 ### 2- Bootcamp Content
-		![Introduction to Linux]{https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/1_Introduction%20to%20Linux.md}
-		![Networking](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/2_Networking.md)
-		![Docker](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/3_Docker.md)
+  1- [Introduction to Linux](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/1_Introduction%20to%20Linux.md)
+  
+  2- [Networking](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/2_Networking.md)
+  
+  3- [Docker](https://github.com/98-Anas/NU_LinuxBootcamp/blob/main/3_Docker.md)
 			
 ### 3- Discussion
 ---
