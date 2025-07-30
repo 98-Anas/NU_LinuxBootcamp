@@ -4,7 +4,7 @@
 To create a sustainable and inclusive learning ecosystem that introduces students to the power and versatility of Linux and open-source technologies. This initiative aims to develop technically proficient individuals equipped with essential Linux skills that are foundational across modern computing disciplines — from embedded systems and cloud computing to cybersecurity, DevOps, and MLOps. By focusing on practical learning, collaboration, and innovation, the initiative seeks to bridge the gap between academic knowledge and real-world industry demands.
 
 ---
-
+<img width="1423" height="905" alt="Bootcamp" src="https://github.com/user-attachments/assets/2687cc96-18d3-487f-b88e-44682244d91f" />
 ### **🎯 Strategic Goals**
 
 1. **Establish Linux as a Foundational Skillset:**  
